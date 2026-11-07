@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-kovapdf",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Productivity", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.kovapdf.com/developers/docs"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/KovaPDF/n8n-nodes-kovapdf#readme"
+			}
+		]
+	}
+}
