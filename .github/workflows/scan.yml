@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: actions/setup-node@v4
         with:
-          node-version: 'lts/*'
+          node-version: '22'
       - name: Scan the published package
-        run: npx -y @n8n/scan-community-package n8n-nodes-kovapdf
+        run: npx -y @n8n/scan-community-package n8n-nodes-kovapdf 2>&1
