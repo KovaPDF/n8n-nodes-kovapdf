@@ -1,0 +1,19 @@
+# Runs n8n's own community package scanner against the published npm version,
+# the same check the Creator Portal runs before verification.
+name: n8n scan
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+      - name: Scan the published package
+        run: npx -y @n8n/scan-community-package n8n-nodes-kovapdf
