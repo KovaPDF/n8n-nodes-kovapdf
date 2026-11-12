@@ -1,5 +1,5 @@
 {
-	"node": "n8n-nodes-kovapdf",
+	"node": "n8n-nodes-kovapdf.kovaPdf",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
 	"categories": ["Productivity", "Utility"],

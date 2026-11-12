@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-kovapdf",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Send PDFs for signature, follow them, download the signed file and verify PDF signatures with KovaPDF",
 	"license": "MIT",
 	"homepage": "https://www.kovapdf.com/developers",
