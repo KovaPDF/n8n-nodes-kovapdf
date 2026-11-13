@@ -54,4 +54,4 @@ Built with the n8n node CLI and tested on current n8n 1.x releases.
 
 ## Licence
 
-MIT for the code. The KovaPDF name and logo are not covered by that licence.
+MIT for the code. The KovaPDF name and logo are not covered by that licence (see NOTICE).

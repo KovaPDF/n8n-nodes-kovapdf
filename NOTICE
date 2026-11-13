@@ -1,0 +1,10 @@
+KovaPDF
+
+The MIT License in LICENSE.md covers the source code of this node only.
+
+The KovaPDF name and logo are trademarks of KovaPDF and are not licensed under it.
+The icons in nodes/KovaPdf (kovapdf.svg and kovapdf.dark.svg) show the KovaPDF logo
+and are included only so n8n can display the node.
+
+Using this node calls the KovaPDF service, under its terms (https://www.kovapdf.com/legal/terms)
+and privacy policy (https://www.kovapdf.com/legal/privacy).
